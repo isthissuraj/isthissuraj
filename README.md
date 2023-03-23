@@ -35,7 +35,5 @@
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isthissuraj&layout=compact&theme=midnight-purple&locale=en"/>
   </a>
 </div>
-<!-- ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=isthissuraj&theme=tokyonight)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=isthissuraj&theme=tokyonight) -->
 
 ##
