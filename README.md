@@ -36,9 +36,5 @@
   </a>
 </div>
 
-<!-- ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VikramadityaDev&theme=tokyonight)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=VikramadityaDev&theme=tokyonight) -->
-
 ##
 
-![Snake animation](https://github.com/isthissuraj/isthissuraj/blob/output/github-contribution-grid-snake.svg)
