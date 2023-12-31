@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Suraj</h1>
 <h3 align="center">A passionate developer from India</h3>
 
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/216658117-5a5c9ab7-7319-4ffa-9e64-79d6bf0fb8d1.gif">
+<img align="right" alt="Coding" width="330" src="https://user-images.githubusercontent.com/74038190/216658117-5a5c9ab7-7319-4ffa-9e64-79d6bf0fb8d1.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=isthissuraj&label=Profile%20views&color=0e75b6&style=flat" alt="isthissuraj" /> </p>
 
