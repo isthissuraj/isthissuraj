@@ -38,8 +38,8 @@
 
 <div>
   <a href="https://github.com/isthissuraj">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=isthissuraj&count_private=true&include_all_commits=true&show_icons=true&theme=midnight-purple&locale=en"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isthissuraj&layout=compact&theme=midnight-purple&locale=en"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=isthissuraj&count_private=true&include_all_commits=true&show_icons=true&theme=github_dark&locale=en"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isthissuraj&layout=compact&theme=github_dark&locale=en"/>
   </a>
 </div>
 
