@@ -26,7 +26,7 @@
   <a href="https://linkedin.com/in/suraj-negi-898578243" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=071A2C" alt="LinkedIn"/>
   </a>
-  <a href="https://instagram.com/isthissuraj" target="_blank">
+  <a href="https://instagram.com/is_this_suraj" target="_blank">
     <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=071A2C" alt="Instagram"/>
   </a>
 </p>
