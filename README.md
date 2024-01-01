@@ -5,6 +5,7 @@
 <h1 align="center">Hi 👋, I'm Suraj</h1>
 <h3 align="center">A passionate developer from India</h3>
 
+
 <img align="right" alt="Coding" width="330" src="https://user-images.githubusercontent.com/74038190/216649450-e63af5d5-a769-4e9f-8bd1-c2b9005dc53c.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=isthissuraj&label=Profile%20views&color=0e75b6&style=flat" alt="isthissuraj" /> </p>
@@ -42,6 +43,7 @@
   <a href="https://github.com/isthissuraj">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=isthissuraj&count_private=true&include_all_commits=true&show_icons=true&theme=github_dark&locale=en"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isthissuraj&layout=compact&theme=github_dark&locale=en"/>
+    <img height="180em" align = "center" src="https://github-readme-streak-stats.herokuapp.com/?user=isthissuraj&theme=tokyonight-duo&hide_border=false&locale=en"/>
   </a>
 </div>
 
