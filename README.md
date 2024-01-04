@@ -47,12 +47,6 @@
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=isthissuraj&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isthissuraj&layout=compact&theme=github_dark&locale=en"/>
     <img height="180em" align = "center" src="https://github-readme-streak-stats.herokuapp.com/?user=isthissuraj&theme=tokyonight-duo&hide_border=false&locale=en"/>
-    <img  align="center" src="https://github.com/isthissuraj/isthissuraj/assets/112235622/8b325e5a-be4d-45cb-9cf8-8cd4749f1509" alt="octocat" width="170" />
-
-
-    
-
-
   </a>
 </div>
 
