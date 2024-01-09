@@ -3,10 +3,6 @@
 </div>
 
 <h1 align="center">Hi 👋, I'm Suraj</h1>
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/216122069-5b8169d7-1d8e-4a13-b245-a8e4176c99f8.png" alt="Bullseye" width="65" />
-</p>
 <h3 align="center">A passionate developer from India</h3>
 
 <img align="right" alt="Coding" width="330" src="https://user-images.githubusercontent.com/74038190/216649450-e63af5d5-a769-4e9f-8bd1-c2b9005dc53c.gif">
