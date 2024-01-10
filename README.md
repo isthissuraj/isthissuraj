@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/isthissuraj/isthissuraj/assets/112235622/db9b1f07-ce98-4370-861b-3f3b69a546fc" width="100%" height= "auto">
+  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b" width="100%" height= "auto">
 </div>
 
 
@@ -7,7 +7,7 @@
 <h1 align="center">Hi 👋, I'm Suraj</h1>
 <h3 align="center">A passionate developer from India</h3>
 
-<img align="right" alt="Coding" width="330" src="https://user-images.githubusercontent.com/74038190/216649450-e63af5d5-a769-4e9f-8bd1-c2b9005dc53c.gif">
+<img align="right" alt="Coding" width="330" src="https://user-images.githubusercontent.com/74038190/213910579-033fa4eb-d10a-4bbe-b159-0b24e58351a8.png">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=isthissuraj&label=Profile%20views&color=0e75b6&style=flat" alt="isthissuraj" /> </p>
 
