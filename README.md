@@ -42,8 +42,7 @@
   <a href="https://github.com/isthissuraj">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=isthissuraj&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isthissuraj&layout=compact&theme=github_dark&locale=en"/>
-    <img height="180em" align = "center" src="https://github-readme-stats.vercel.app/api?username=isthissuraj&theme=github_dark&hide_border=false&locale=en"/>
+   
+    
   </a>
 </div>
-
-
