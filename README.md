@@ -8,7 +8,7 @@
 <h1 align="center">Hi 👋, I'm Suraj</h1>
 <h3 align="center">A passionate developer from India</h3>
 
-<img align="right" alt="Coding" width="330" src="https://user-images.githubusercontent.com/74038190/213910579-033fa4eb-d10a-4bbe-b159-0b24e58351a8.png">
+<img align="right" alt="Coding" width="330" src="https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/octocat/spidertocat.png">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=isthissuraj&label=Profile%20views&color=0e75b6&style=flat" alt="isthissuraj" /> </p>
 
