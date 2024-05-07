@@ -1,6 +1,3 @@
-<div align="center">
-  <img src="https://velog.velcdn.com/images/younoah/post/9382325d-eb13-4788-8835-0a99d08cda88/Git.gif" width="650" height = "300' >
-</div>
 
 
 
