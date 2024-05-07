@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b" width="1080" height= "300">
+  <img src="https://velog.velcdn.com/images/younoah/post/9382325d-eb13-4788-8835-0a99d08cda88/Git.gif" width="600" height = "200' >
 </div>
 
 
