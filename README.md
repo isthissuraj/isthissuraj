@@ -1,6 +1,6 @@
 
 <div style="text-align: center;">
-    <img src="https://github.com/isthissuraj/isthissuraj/assets/112235622/43fb5461-598e-47f2-ab9e-03640321264c" alt="icon" width="1080" height="240">
+    <img  align = "center" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="icon" width="900" height="480">
 </div>
 
 
