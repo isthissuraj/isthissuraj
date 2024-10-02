@@ -26,6 +26,8 @@
 
 - 📫 How to reach me **surajnegi1704@gmail.com**
 
+- 🎸 More of me **[linktr.ee/isthissuraj](https://linktr.ee/isthissuraj)**
+
 ## 🌐 Socials
 
 <p align="left">
