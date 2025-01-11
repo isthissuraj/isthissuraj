@@ -1,6 +1,6 @@
 
 <div style="text-align: center;">
-    <img  align = "center" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="icon" width="900" height="330">
+    <img  align = "center" src="https://private-user-images.githubusercontent.com/74038190/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzY1ODkxNDksIm5iZiI6MTczNjU4ODg0OSwicGF0aCI6Ii83NDAzODE5MC8yNDAzMDQ1ODYtZDQ4ODkzYmQtMDc1Ny00ODFjLThkN2UtYmEzZTE2M2ZlYWU3LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTAxMTElMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwMTExVDA5NDcyOVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTlhMTI5NjIzMmVjZTRmZTA2ZGI4OTFkYmZiMjhkMGI1ZjFjOTAyYTU3NWExZDVhNDVkMWU3ZTZmOGE1Yzg2ZWImWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.6Xpvo-Fnyb9Njc-hVEyeA9m2v5B482EhMAQHY4extGQ" alt="icon" width="1080" height="200">
 </div>
 
 
@@ -8,10 +8,10 @@
 <h1 align="center">Hi 👋, I'm Suraj</h1>
 <h3 align="center">A passionate developer from India</h3>
 
-<p align = 'center' >👨‍💻 Mobile App Engineer | 🚀 Flutter Developer | 💻 Android Enthusiast | 🌐 Open Source Contributor</p>
+<p align = 'left' >👨‍💻 Mobile App Engineer | 🚀 Flutter Developer | 💻 Android Enthusiast | 🌐 Open Source Contributor</p>
  
-
-<img align="right" alt="Coding" width="300" src="https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/octocat/spidertocat.png">
+<! -- https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/octocat/spidertocat.png -->
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=isthissuraj&label=Profile%20views&color=0e75b6&style=flat" alt="isthissuraj" /> </p>
 
