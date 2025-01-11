@@ -10,7 +10,6 @@
 
 <p align = 'left' >👨‍💻 Mobile App Engineer | 🚀 Flutter Developer | 💻 Android Enthusiast | 🌐 Open Source Contributor</p>
  
-<! -- https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/octocat/spidertocat.png -->
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=isthissuraj&label=Profile%20views&color=0e75b6&style=flat" alt="isthissuraj" /> </p>
