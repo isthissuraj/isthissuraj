@@ -1,10 +1,4 @@
 
-<div style="text-align: center;">
-    <img  align = "center" src="https://private-user-images.githubusercontent.com/74038190/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzY1ODkxNDksIm5iZiI6MTczNjU4ODg0OSwicGF0aCI6Ii83NDAzODE5MC8yNDAzMDQ1ODYtZDQ4ODkzYmQtMDc1Ny00ODFjLThkN2UtYmEzZTE2M2ZlYWU3LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTAxMTElMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwMTExVDA5NDcyOVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTlhMTI5NjIzMmVjZTRmZTA2ZGI4OTFkYmZiMjhkMGI1ZjFjOTAyYTU3NWExZDVhNDVkMWU3ZTZmOGE1Yzg2ZWImWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.6Xpvo-Fnyb9Njc-hVEyeA9m2v5B482EhMAQHY4extGQ" alt="icon" width="1080" height="200">
-</div>
-
-
-
 <h1 align="center">Hi 👋, I'm Suraj</h1>
 <h3 align="center">A passionate developer from India</h3>
 
